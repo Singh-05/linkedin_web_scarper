@@ -1,4 +1,4 @@
-# linkedin_web_scarper
+# LinkedIn Web Scraper
 Linkedin jobs web scraper in jupyter notebook
 We are going to retrieve information about all available Data scientist jobs currently available in the Barcelona area. 
 
