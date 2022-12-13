@@ -4,24 +4,23 @@ We are going to retrieve information about all available Data scientist jobs cur
 
 Results are shown in a "list form" and in different pages. For each job post there's also an additional page where more detailed information is provided.
 
-
 Objective: Generate a DataFrame that contains the following information for all the listed job posts:
 
-Job Title
-Company Name
-Location
-State
-Posting Date
-Offer URL
-Number of Applicants (in int form)
-Promoted (in boolean form)
-Workspace
-Seniority
-Employment Type
-Industry
-Python Required (in boolean form)
-Application through Linkedin (in boolean form)
-Number of Employees (in int form)
+1. Job Title
+2. Company Name
+3. Location
+4. State
+5. Posting Date
+6. Offer URL
+7. Number of Applicants (in int form)
+8. Promoted (in boolean form)
+9. Workspace
+10. Seniority
+11. Employment Type
+12. Industry
+13. Python Required (in boolean form)
+14. Application through Linkedin (in boolean form)
+15. Number of Employees (in int form)
 
 
 According to the following criteria:
